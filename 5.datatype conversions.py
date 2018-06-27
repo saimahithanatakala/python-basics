@@ -1,0 +1,6 @@
+a=int(5.678)
+b=float(34)
+print(a)
+print(b)
+c=long(78)
+print(c)
